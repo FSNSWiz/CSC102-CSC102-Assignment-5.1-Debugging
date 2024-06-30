@@ -1,0 +1,53 @@
+/*Assignment 1.3: Using CSS to make it personal
+     Fabian Sherrill
+     May 26th 2024 
+     Fsherrill84129@uat.edu*/
+/*This is the styling for both of the body and paragraph properties.*/
+body,
+p {
+    text-align: center;
+    background-color: black;
+    color: greenyellow;
+}
+
+/*The background color was changed to black and the text color was change to greenyellow.*/
+
+
+/*This is the styling for the navigation menu*/
+nav {
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/*The height, width, float, padding, and line height were all adjusted.*/
+
+/*This is the styling for the footer.*/
+footer {
+    text-align: center;
+    font-size: 12px;
+    margin-right: 200px;
+}
+
+/*The text alignment, font size, and margin right were each changed for the footer.*/
+
+/*This is the styling for the ID labeled: meme.*/
+#Meme {
+    margin-right: 200px;
+}
+
+/*This is the styling for the header.*/
+
+header {
+    text-align: center;
+}
+
+/*The text alignment was changed.*/
+
+.Rules {
+    text-align: left;
+}
+
+/*The text alignment was changed.*/
